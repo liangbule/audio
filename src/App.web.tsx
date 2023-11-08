@@ -4,7 +4,7 @@ import {View, Text} from 'react-native';
 function App(): any {
   return (
     <View>
-      <Text>1111</Text>
+      <Text>web</Text>
     </View>
   );
 }
