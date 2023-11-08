@@ -1,7 +1,7 @@
 # OSX
 #
 .DS_Store
-
+bundle
 # Xcode
 #
 build/
@@ -21,10 +21,10 @@ DerivedData
 *.ipa
 *.xcuserstate
 ios/.xcode.env.local
-
+ios/Podfile.lock
 # Android/IntelliJ
 #
-dist/
+dist
 .idea
 .gradle
 local.properties
