@@ -13,7 +13,7 @@ module.exports = {
   // 出口
   output: {
     filename: 'bundle.web.js',
-    path: path.resolve(appDirectory, 'dist'),
+    path: path.resolve(appDirectory, 'bundle'),
   },
   module: {
     rules: [
